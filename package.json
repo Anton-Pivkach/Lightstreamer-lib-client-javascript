@@ -1,6 +1,6 @@
 {
-  "name": "lightstreamer-client",
-  "version": "1.0.0",
+  "name": "@justanswer/lightstreamer-client",
+  "version": "1.1.1",
   "description": "Lightstreamer client",
   "license": "Apache-2.0",
   "keywords": [

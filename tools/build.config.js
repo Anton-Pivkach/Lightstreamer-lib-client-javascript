@@ -30,17 +30,17 @@ module.exports = {
                 "source/LogMessages", // compatible with Web Workers
 
                 /* Widgets */
-                "src-widget/Chart",
+/*                 "src-widget/Chart",
                 "src-widget/DynaGrid",
                 "src-widget/SimpleChartListener",
                 "src-widget/StaticGrid",
-                "src-widget/StatusWidget",
+                "src-widget/StatusWidget", */
 
                 /* Logging */
-                "src-log/AlertAppender",
+                //"src-log/AlertAppender",
                 "src-log/BufferAppender", // compatible with Web Workers
                 "src-log/ConsoleAppender",
-                "src-log/DOMAppender",
+                //"src-log/DOMAppender",
                 "src-log/FunctionAppender", // compatible with Web Workers
                 "src-log/SimpleLoggerProvider" // compatible with Web Workers
             ]
